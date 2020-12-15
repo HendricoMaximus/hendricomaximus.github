@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## My Story
 
-You can use the [editor on GitHub](https://github.com/HendricoMaximus/hendricomaximus.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I started as a Roblox player, and when I discovered Roblox studio, I just couldn't stop. Fast forward a few years, and I have a [portfolio](https://devforum.roblox.com/t/officiall-studios-portfolio-ui-designer-scripter-gfx-3-d-modeling-vfx-video-editing/667889), a development [YouTube Chanel](https://www.youtube.com/channel/UC2FvnmklfGvsbqlgBl7aYQg), and have worked on many different games!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
