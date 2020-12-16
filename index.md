@@ -5,4 +5,4 @@ I started as a Roblox player, and when I discovered Roblox studio, I just couldn
 ## Portfolio
 To view a general example, view [this page](http://hendricomaximus.github.io/portfolio)! Or, choose from the examples below!
 
-### [UI](http://hendricomaximus.github.io/portfolio/ui) | [Scripting](http://hendricomaximus.github.io/portfolio/scripting) | [Modeling & VFX](http://hendricomaximus.github.io/portfolio/modeling)
+### [UI](http://hendricomaximus.github.io/portfolio/ui) | [Scripting](http://hendricomaximus.github.io/portfolio/scripting) | [Modeling & VFX](http://hendricomaximus.github.io/portfolio/modeling) | [GFX](http://hendricomaximus.github.io/portfolio/graphics)
